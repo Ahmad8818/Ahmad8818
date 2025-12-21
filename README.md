@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js; " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Integrate+Ai+Api " alt="Typing SVG" />
 </p>
 
 # Hi all, I'm M.Ahamd ! 👋
@@ -9,17 +9,15 @@
  💡 **Innovative Full Stack Developer** 
 I build **scalable web apps** that blend performance with elegance.  
 Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income.  
+💼 “Open to Job opportunities & Freelance work.” 
 
-💼 Open to Job opportunities & Freelance work
 🧠 “My love language is javascript.”  
 
 ## 📬 Contact Info
 
- 
 💼 **LinkedIn:** [linkedin.com/in/Ahmad8818](https://linkedin.com/in/muhammad-ahmad-a06553382)  
 📧 **Email:** [ahmad8818510@gmail.com](mailto:ahamd8818510@gmail.com)  
 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/923148818510)
-<!-- 🌐**project:** [Ecamp Store](https://ecamp.vercel.app/) -->
 
 
 ## 🔥 My Consistency Graph
@@ -31,7 +29,11 @@ Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income
 
 
 
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad8818&show_icons=true&theme=codeSTACKr&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad8818&layout=compact&theme=codeSTACKr&hide_border=true" height="180" />
+</p>
 
 
 ## 🕸️ **WEB DEV TOOLS**
@@ -47,14 +49,9 @@ Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Ahmad8818)
 <br />
 
- ⚙️ Backend & Databases
-<p> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/> </p>
+ 
 
-☁️ Cloud & Deployment
-<p> <img src="https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazon-aws"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> </p>
 
-🛠️ Developer Tools
-<p> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white"/> </p>
 ## ⚙️ **BACKEND DEV TOOLS**
 
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/Ahmad8818)
@@ -97,5 +94,7 @@ Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income
 
 
 [repo]: https://github.com/Ahmad8818
+
+
 
 
