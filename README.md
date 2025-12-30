@@ -14,7 +14,7 @@ Currently learning **AWS** for production-ready deployments and exploring **AI i
 🧠  Passionate about **JavaScript** and turning ideas into real-world digital solutions. 
 
 ### 🔹 Featured Projects
-1. | **E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe | [link](#) |
+1. | [**E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe](link)
    
 ## 📬 Contact Info
 
