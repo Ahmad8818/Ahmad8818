@@ -8,11 +8,14 @@
 
  💡 **Innovative Full Stack Developer** 
 I build **scalable web apps** that blend performance with elegance.  
-Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income.  
+Currently learning **AWS** for production-ready deployments and exploring **AI integrations** to enhance user experiences.   
 💼 “Open to Job opportunities & Freelance work.” 
 
-🧠 “My love language is javascript.”  
+🧠  Passionate about **JavaScript** and turning ideas into real-world digital solutions. 
 
+### 🔹 Featured Projects
+1. | **E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe | [link](#) |
+   
 ## 📬 Contact Info
 
 💼 **LinkedIn:** [linkedin.com/in/Ahmad8818](https://linkedin.com/in/muhammad-ahmad-a06553382)  
@@ -25,10 +28,6 @@ Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad8818&theme=highcontrast&layout=compa")](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad8818)](https://git.io/streak-stats) -->
 ## 📊 GitHub Stats  
-
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad8818&show_icons=true&theme=codeSTACKr&hide_border=true" height="180" />
@@ -94,7 +93,7 @@ Currently exploring **Cloud(Aws)** and mentoring devs to turn skills into income
 
 
 [repo]: https://github.com/Ahmad8818
-
+[link]: https://ecamp.vercel.app/
 
 
 
