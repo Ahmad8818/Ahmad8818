@@ -6,12 +6,12 @@
  
 ## 🚀 About Me
 
- 💡 **Innovative Full Stack Developer** 
+ 💡 **Innovative Full Stack Developer(MERN)** 
 I build **scalable web apps** that blend performance with elegance.  
-Currently learning **AWS** for production-ready deployments and exploring **AI integrations** to enhance user experiences.   
+Currently learning **AWS** for production-ready deployments and enhance user experiences.   
 💼 “Open to Job opportunities & Freelance work.” 
 
-🧠  Passionate about **JavaScript** and turning ideas into real-world digital solutions. 
+🧠  Passionate about **JavaScript** , **TypeScript** and turning ideas into real-world digital solutions. 
 
 ### 🔹 Featured Projects
 1. | **E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe|  [Ecamp Store](https://ecamp.vercel.app/)
