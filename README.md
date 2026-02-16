@@ -14,7 +14,8 @@ Currently learning **AWS** for production-ready deployments and enhance user exp
 🧠  Passionate about **JavaScript** , **TypeScript** and turning ideas into real-world digital solutions. 
 
 ### 🔹 Featured Projects
-1. | **E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe|  [Ecamp Store](https://ecamp.vercel.app/)
+1. | **E-commerce Platform** | React, Node.js, Express, MongoDB, Stripe|  [Ecamp Store](https://ecamp.vercel.app)
+2. | **AI Generated Thubnails/Video** | React, Node.js, Express, MongoDB, Clerk, Typescript, Sentry, Stripe|  [ AdVizi](https://advizi.vercel.app)
    
 ## 📬 Contact Info
 
